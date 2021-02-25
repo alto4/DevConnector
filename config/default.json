@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://scottalton:Toronto4@cluster0.6i83n.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
